@@ -11,24 +11,24 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in one individual.
 
-* Using `sample_values` as the values for the bar chart.
+    * Using `sample_values` as the values for the bar chart.
 
-* Using `otu_ids` as the labels for the bar chart.
+    * Using `otu_ids` as the labels for the bar chart.
 
-* Using `otu_labels` as the hovertext for the chart.
+    * Using `otu_labels` as the hovertext for the chart.
 
 
 3. Create a bubble chart that displays each sample.
 
-* Using `otu_ids` for the x values.
+    * Using `otu_ids` for the x values.
 
-* Using `sample_values` for the y values.
+    * Using `sample_values` for the y values.
 
-* Using `sample_values` for the marker size.
+    * Using `sample_values` for the marker size.
 
-* Using `otu_ids` for the marker colors.
+    * Using `otu_ids` for the marker colors.
 
-* Using `otu_labels` for the text values.
+    * Using `otu_labels` for the text values.
 
 
 4. Display the sample metadata, i.e., an individual's demographic information.
