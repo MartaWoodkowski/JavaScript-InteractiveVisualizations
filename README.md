@@ -39,8 +39,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 6. Update all of the plots any time that a new sample is selected.
 
-## Consideration
-
+#### Consideration
 * Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
 
@@ -52,6 +51,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 * Modify the example gauge code to account for values ranging from 0 through 9.
 
 * Update the chart whenever a new sample is selected.
+
 
 
 
