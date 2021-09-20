@@ -40,7 +40,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 6. Update all of the plots any time that a new sample is selected.
 
 #### Consideration
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
+Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
 
 
@@ -57,7 +57,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Create any layout that you would like for your dashboard. Here is an example:
 
-![Belly Button Biodiversity Application](Images/app_screenshot.PNG)
+![Belly Button Biodiversity Dashboard](Images/app_screenshot.PNG)
 
 
 
