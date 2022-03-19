@@ -57,7 +57,7 @@ Refered to the [Plotly.js documentation](https://plot.ly/javascript/) when built
 
 
 ## Here is how it looks like: <br>
-Feel free to take a look and play with the chart [here](https://martawoodkowski.github.io/JavaScript-InteractiveVisualizations/).
+Feel free to take a look and play with the chart [here](https://martachesnova.github.io/JavaScript-InteractiveVisualizations/).
 
 ![Belly Button Biodiversity Dashboard](Images/app_screenshot.PNG)
 
